@@ -1,4 +1,4 @@
-# Dillinger
+# DreamTech
 ## Plantillas de ejemplo para c#
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
