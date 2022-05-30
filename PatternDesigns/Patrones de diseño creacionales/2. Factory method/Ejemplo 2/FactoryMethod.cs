@@ -7,6 +7,10 @@ using System.Threading.Tasks;
 namespace PatternDesigns.Factory.PizzaStore
 {
 
+    public enum TypeOfPizza
+    {
+        Pepperoni, Neapolitan, California
+    }
     public static class testFactory
     {
         public static void run()
@@ -73,10 +77,6 @@ namespace PatternDesigns.Factory.PizzaStore
     }
 
 
-    public enum TypeOfPizza
-    {
-        Pepperoni, Neapolitan, California
-    }
 
     public class NYPizzaStore : PizzaStore
     {

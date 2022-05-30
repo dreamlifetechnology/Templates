@@ -1,6 +1,9 @@
 ﻿using PatternDesigns.Builder;
 using PatternDesigns.Factory;
 using PatternDesigns.Factory.PizzaStore;
+using PatternDesigns.Abstract_Factory;
+using PatternDesigns.Prototype;
+using PatternDesigns.Singleton;
 using System;
 
 namespace PatternDesigns
@@ -21,7 +24,18 @@ namespace PatternDesigns
             //test.runExample();
 
             // 3. Factory (Ejemplo2)
-            testFactory.run();
+            //testFactory.run();
+
+            // 4. Abstract Factory
+            // abstractFactory.run();
+
+            // 5. Prototype
+            //PrototypePattern.run();       // ICloneable
+            //PrototypePattern2.run();      // Deep Copy con IPrototype
+            //PrototypePattern3.run();      // Deep Copy con IPrototype + serializacion
+            
+            // 6. Singleton
+            SingletonTest.run();
         }
     }
 }
