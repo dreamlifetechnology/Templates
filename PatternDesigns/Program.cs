@@ -12,7 +12,6 @@ namespace PatternDesigns
     {
         static void Main(string[] args)
         {
-
             /// PATRONES DE DISEÑO ///
 
             // 1. Builder
@@ -35,7 +34,7 @@ namespace PatternDesigns
             //PrototypePattern3.run();      // Deep Copy con IPrototype + serializacion
             
             // 6. Singleton
-            SingletonTest.run();
+            // SingletonTest.run();
         }
     }
 }

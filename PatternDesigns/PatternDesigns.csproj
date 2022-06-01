@@ -9,4 +9,10 @@
     <Folder Include="Patrones estructurales\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="Comunes\Cities.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>

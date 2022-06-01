@@ -30,3 +30,4 @@ C:\Users\juan.roncero\Source\Repos\dreamlifetechnology\Templates\PatternDesigns\
 C:\Users\juan.roncero\Source\Repos\dreamlifetechnology\Templates\PatternDesigns\obj\Debug\net5.0\PatternDesigns.pdb
 C:\Users\juan.roncero\Source\Repos\dreamlifetechnology\Templates\PatternDesigns\obj\Debug\net5.0\PatternDesigns.genruntimeconfig.cache
 C:\Users\juan.roncero\Source\Repos\dreamlifetechnology\Templates\PatternDesigns\obj\Debug\net5.0\ref\PatternDesigns.dll
+C:\Users\juan.roncero\Source\Repos\dreamlifetechnology\Templates\PatternDesigns\bin\Debug\net5.0\Comunes\Cities.txt
